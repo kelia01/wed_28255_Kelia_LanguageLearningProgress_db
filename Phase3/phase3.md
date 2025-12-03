@@ -2,6 +2,7 @@
 
 ## ER Diagram
 
+<img width="1233" height="881" alt="image" src="https://github.com/user-attachments/assets/e318212d-8be9-4759-b198-efbe8670b150" />
 
 ## Normalization Process: From Unnormalized to 3NF
 ### For 0NF:
