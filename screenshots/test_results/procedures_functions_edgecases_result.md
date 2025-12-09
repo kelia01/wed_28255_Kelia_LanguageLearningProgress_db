@@ -23,7 +23,9 @@ EXCEPTION
 END;
 /
 ```
+
 <img width="882" height="24" alt="image" src="https://github.com/user-attachments/assets/317127ff-b501-4bdb-8f1a-2ddcf344a288" />
+
 
 ## Register Learner (Invalid Age)
 ```
@@ -51,7 +53,9 @@ EXCEPTION
 END;
 /
 ```
+
 <img width="882" height="24" alt="image" src="https://github.com/user-attachments/assets/572ee076-674d-49cf-a92c-228f814c2423" />
+
 
 ## Calculate Average Score
 ```
@@ -69,7 +73,9 @@ BEGIN
 END;
 /
 ```
+
 <img width="848" height="129" alt="image" src="https://github.com/user-attachments/assets/0fa62f38-43af-45aa-9462-fe565b443164" />
+
 
 ## Email Validation
 ```
@@ -97,6 +103,7 @@ BEGIN
 END;
 /
 ```
+
 <img width="850" height="244" alt="image" src="https://github.com/user-attachments/assets/6b114eff-de34-4779-83cd-8ebb9c731a6f" />
 
 
@@ -112,7 +119,9 @@ EXCEPTION
 END;
 /
 ```
+
 <img width="853" height="343" alt="image" src="https://github.com/user-attachments/assets/bba1ad36-cfd2-45b0-a38b-d21685fb118f" />
+
 
 ## Top performers function testing
 ```
@@ -126,7 +135,9 @@ EXCEPTION
 END;
 /
 ```
+
 <img width="853" height="343" alt="image" src="https://github.com/user-attachments/assets/bcf107e5-7333-4451-965d-7dff9baefb82" />
+
 
 ##  Package - Submit Progress
 ```
@@ -151,7 +162,9 @@ EXCEPTION
 END;
 /
 ```
+
 <img width="822" height="100" alt="image" src="https://github.com/user-attachments/assets/1d5d15a1-46fa-42dd-9e73-46e7e70d4f1f" />
+
 
 ## Non-existent Learner
 ```
@@ -167,7 +180,9 @@ EXCEPTION
 END;
 /
 ```
+
 <img width="861" height="141" alt="image" src="https://github.com/user-attachments/assets/4328d28b-f8c5-4292-96a4-c9cba813c895" />
+
 
 ## Duplicate emails error handling
 ```
@@ -193,6 +208,7 @@ EXCEPTION
 END;
 /
 ```
+
 <img width="847" height="142" alt="image" src="https://github.com/user-attachments/assets/0bdc3ea0-8313-4f6e-a859-aa6459a42707" />
 
 
