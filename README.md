@@ -5,19 +5,19 @@
 
 ---
 
-## 📋 Project Overview
+##  Project Overview
 
 This project is a database-driven system designed to manage learner performance in a language training program. It stores learner information, assessments, and scores, and uses PL/SQL functions, procedures, packages, triggers, and validation logic to ensure accuracy and integrity of the grading process.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Language training programs often struggle with inconsistent grading, manual score calculations, and data integrity issues when tracking learner progress across multiple assessments. This system addresses these challenges by providing an automated, reliable database solution that ensures accurate score management and maintains data consistency throughout the learning lifecycle.
 
 ---
 
-## 🚀 Key Objectives
+##  Key Objectives
 
 1. **Centralized Data Management** - Store and organize learner profiles, assessment records, and performance metrics in a structured relational database.
 
@@ -31,7 +31,7 @@ Language training programs often struggle with inconsistent grading, manual scor
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Oracle SQL** - Tables, Relations, Constraints, Indexes
 - **PL/SQL** - Functions, Procedures, Packages, Cursors, Triggers
@@ -40,7 +40,7 @@ Language training programs often struggle with inconsistent grading, manual scor
 
 ---
 
-## ⚡ Quick Start Instructions
+##  Quick Start Instructions
 
 ### Prerequisites
 - Oracle Database 11g or higher
@@ -65,7 +65,7 @@ Language training programs often struggle with inconsistent grading, manual scor
    ```
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 language-learning-tracker/
@@ -92,7 +92,7 @@ language-learning-tracker/
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 ### Core Documentation
 - [Project Overview](./database/project_overview.md) - Detailed project description and goals
@@ -102,8 +102,8 @@ language-learning-tracker/
 
 ### Database Scripts
 - **Tables Creation** - `./database/scripts/` (create_tables.sql)
-- **Functions** - `./database/scripts/` (create_functions.sql)
-- **Procedures** - `./database/scripts/` (create_procedures.sql)
+- **Functions** - `./database/scripts/Functions` (create_functions.sql)
+- **Procedures** - `./database/scripts/Procedures` (create_procedures.sql)
 - **Triggers** - `./database/scripts/` (create_triggers.sql)
 - **Packages** - `./database/scripts/` (create_packages.sql)
 
@@ -115,7 +115,7 @@ language-learning-tracker/
 
 ---
 
-## 🔑 Key Features
+##  Key Features
 
 ### 1. Learner Management
 - Store comprehensive learner profiles
@@ -142,7 +142,7 @@ language-learning-tracker/
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 The system includes comprehensive test cases covering:
 - Valid and invalid score entries
@@ -158,7 +158,7 @@ Run all tests:
 
 ---
 
-## 📊 Database Schema Overview
+##  Database Schema Overview
 
 **Main Tables:**
 - `LEARNERS` - Learner profiles and personal information
@@ -176,7 +176,7 @@ Run all tests:
 
 ---
 
-## 👥 Contributing
+##  Contributing
 
 This is an academic project. For questions or suggestions:
 - **Student:** Iradukunda Kelia
@@ -184,13 +184,13 @@ This is an academic project. For questions or suggestions:
 
 ---
 
-## 📝 License
+##  License
 
 This project is created for educational purposes as part of a database management course.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Course instructor and teaching assistants
 - Oracle documentation and PL/SQL resources
